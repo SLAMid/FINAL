@@ -1,0 +1,8 @@
+prefix=/home/dan/catkin_ws/install
+
+Name: mask_rcnn_ros
+Description: Description of mask_rcnn_ros
+Version: 0.1.0
+Cflags: -I/home/dan/catkin_ws/install/include
+Libs: -L/home/dan/catkin_ws/install/lib 
+Requires: message_runtime
